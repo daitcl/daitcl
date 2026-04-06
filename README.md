@@ -74,8 +74,8 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daitcl&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daitcl&layout=compact&theme=radical" alt="Top Langs" height="170" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
+  <img src="./profile/top-langs.svg" alt="Top Langs" height="170" />
 </p>
 
 <p align="center">
