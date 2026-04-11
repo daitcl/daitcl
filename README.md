@@ -6,11 +6,12 @@
 <h1 align="center">👋 你好，我是 dait</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=后端开发者+%7C+博主；热爱分享与创造；欢迎来到我的技术小栈" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=热爱分享与创造；欢迎来到我的技术小栈" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://blog.csdn.net/qq_39538318" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-red?logo=csdn" /></a>
+  <a href="https://www.daitcc.top"><img src="https://img.shields.io/badge/Website-daitcc.top-blue?style=flat-square" alt="个人网站"></a>
   <a href="https://github.com/daitcl" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github" /></a>
   <a href="https://ifdian.net/a/daitcc" target="_blank"><img src="https://img.shields.io/badge/爱发电-赞助-946ce6?logo=afdian" /></a>
   <a href="mailto:daitcctop@163.com"><img src="https://img.shields.io/badge/邮箱-daitcctop@163.com-EA4335?logo=gmail" /></a>
@@ -38,23 +39,13 @@
 
 ## 🔗 来找我
 
-- **CSDN**：[daitcl的博客](https://blog.csdn.net/qq_39538318) — 技术文章首发地
-- **GitHub**：[@daitcl](https://github.com/daitcl) — 开源项目与代码片段（你正在这里）
+- **CSDN**：[daitcl的博客](https://blog.csdn.net/qq_39538318) 
+- **GitHub**：[@daitcl](https://github.com/daitcl) — （你正在这里）
+- **爱发电**：[爱发电主页](https://ifdian.net/a/daitcc) — 欢迎支持、分享或合作
+- **个人网站**：[daitcc.top](https://www.daitcc.top) — 个人博客、项目展示、联系我
+- **邮箱**：daitcctop@163.com — 欢迎交流、指正或闲聊
 - **微信公众号**：扫一扫下方二维码，获取更新推送  
   ![微信公众号二维码](/images/wechat_qrcode.jpg)  
-- **邮箱**：daitcctop@163.com — 欢迎交流、指正或闲聊
-
----
-
-## ☕ 支持与鼓励
-
-如果你觉得某篇文章对你有帮助，或者单纯想请我喝杯咖啡，可以前往 **爱发电** 赞助支持。每一份鼓励都会让我更有动力继续创作。
-
-<p align="center">
-  <a href="https://ifdian.net/a/daitcc" target="_blank">
-    <img src="https://img.shields.io/badge/爱发电-赞助作者-946ce6?style=for-the-badge&logo=afdian" />
-  </a>
-</p>
 
 ---
 
@@ -65,7 +56,7 @@
 👉 **https://ifdian.net/a/daitcc**
 
 同时，我在以下最常使用的平台中也已公开本主页（用于交叉验证）：
-- **CSDN**：[博客主页](https://blog.csdn.net/qq_39538318) — 个人签名/置顶文章包含爱发电链接
+- **个人网站**：[daitcc.top](https://www.daitcc.top) — 个人签名/置顶文章包含爱发电链接
 - **GitHub**：[daitcl](https://github.com/daitcl) — 本 README 中已包含爱发电链接
 - **微信公众号**：菜单栏已配置“爱发电”入口
 
