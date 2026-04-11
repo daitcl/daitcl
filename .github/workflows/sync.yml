@@ -45,6 +45,7 @@ jobs:
               -d "{
                 \"name\": \"${{ env.REPO_NAME }}\",
                 \"private\": false,
+                \"public\": true,
                 \"auto_init\": false
               }"
             echo "✅ Gitee 公开仓库创建完成"
