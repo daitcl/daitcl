@@ -44,7 +44,6 @@ jobs:
               -H "Authorization: token ${{ secrets.GITEE_TOKEN }}" \
               -d "{
                 \"name\": \"${{ env.REPO_NAME }}\",
-                \"private\": false,
                 \"public\": true,
                 \"auto_init\": false
               }"
