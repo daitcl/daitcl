@@ -44,7 +44,7 @@ jobs:
               -H "Authorization: token ${{ secrets.GITEE_TOKEN }}" \
               -d "{
                 \"name\": \"${{ env.REPO_NAME }}\",
-                \"public\": true,
+                \"private\": false,
                 \"auto_init\": false
               }"
             echo "✅ Gitee 公开仓库创建完成"
