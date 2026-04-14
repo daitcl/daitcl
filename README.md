@@ -45,7 +45,7 @@
 - **个人网站**：[daitcc.top](https://www.daitcc.top) — 个人博客、项目展示、联系我
 - **邮箱**：daitcctop@163.com — 欢迎交流、指正或闲聊
 - **微信公众号**：扫一扫下方二维码，获取更新推送  
-  ![微信公众号二维码](/images/wechat_qrcode.jpg)  
+  <img src="https://raw.gitcode.com/daitcl/picgo/raw/main/wechat_qrcode.jpg" alt="微信公众号二维码" width="150" />
 
 ---
 
