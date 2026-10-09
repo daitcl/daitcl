@@ -7,8 +7,8 @@
 这是一个 **GitHub 个人主页 README 仓库**（`daitcl/daitcl`，即与 GitHub 用户名同名的特殊仓库）。它不是一个软件项目：没有源代码、构建系统、测试套件或 Lint 工具。该仓库的唯一用途是渲染 https://github.com/daitcl 上展示的个人主页。
 
 - `README.md` — 主页内容，使用中文编写，会直接渲染为 GitHub 个人主页页面。包含作者 CSDN 博客、个人网站（daitcc.top）、爱发电赞助、邮箱、微信公众号等链接。
-- `profile/stats.svg`、`profile/top-langs.svg` — README 通过相对路径（`./profile/stats.svg`）引用的 GitHub 统计卡片。
-- `.github/workflows/` — 仓库中唯一有实际意义的"代码"，两个 GitHub Actions 负责主页的自动化。
+- `profile/stats.svg`、`profile/top-langs.svg`、`profile/snake.svg`、`profile/snake-dark.svg` — README 通过相对路径（`./profile/xxx.svg`）引用的 GitHub 统计卡片与贡献蛇。
+- `.github/workflows/` — 仓库中唯一有实际意义的"代码"，三个 GitHub Actions 负责主页的自动化。
 
 ## GitHub Actions（需要了解的自动化）
 
@@ -16,6 +16,11 @@
 - 定时每天 UTC 03:00 运行，也支持 `workflow_dispatch` 手动触发。
 - 使用 `readme-tools/github-readme-stats-action@v1` 重新生成 `profile/stats.svg` 和 `profile/top-langs.svg`。
 - 自动提交这些 SVG（提交信息为 "Update README cards"）并推送回仓库——因此 `profile/*.svg` 可能在 main 分支上自动变化，无需本地修改。请将这两个文件视为**生成产物**，不要手动编辑。
+
+### `.github/workflows/snake.yml` — 生成贡献蛇
+- 每 12 小时定时运行（`0 */12 * * *`），也支持 `workflow_dispatch` 手动触发。
+- 使用 `Platane/snk/svg-only@v3` 生成 `profile/snake.svg`（浅色）与 `profile/snake-dark.svg`（深色），并自动提交（提交信息为 "Update snake"）。
+- **刻意不使用 push 触发**，避免提交后自我循环。若要生成蛇，需通过 GitHub 界面手动触发或等待定时任务。
 
 ### `.github/workflows/sync.yml` — 镜像推送到 Gitee 和 GitCode
 - 在**任意分支上的每次 push** 时触发（另支持 `workflow_dispatch`）。

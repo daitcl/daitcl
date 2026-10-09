@@ -35,6 +35,26 @@
 
 ---
 
+<h3><samp>　项目展示</samp></h3>
+
+<!-- ✏️ 待补充：把下方示例替换为你的真实项目
+     格式： **项目名** · `主要语言` —— 一句话简介 [→ 仓库链接](url) -->
+- **项目名称** · `语言` —— 一句话项目简介　[→ 仓库](https://github.com/daitcl)
+
+<br />
+
+---
+
+<h3><samp>　文章推荐</samp></h3>
+
+<!-- ✏️ 待补充：替换为你的真实文章标题与链接（CSDN / daitcc.top） -->
+- [文章标题一](https://blog.csdn.net/qq_39538318)
+- [文章标题二](https://www.daitcc.top)
+
+<br />
+
+---
+
 <h3><samp>　为什么写博客</samp></h3>
 
 | | |
@@ -73,6 +93,17 @@
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
   <img src="./profile/top-langs.svg" alt="Top Langs" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daitcl&bg_color=ffffff00&color=6b7f8c&line=8a7ca8&point=9e4a4a&area=true&hide_border=true" alt="活跃度" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <img src="./profile/snake.svg" alt="贡献蛇" width="95%" />
+  </picture>
 </p>
 
 <p align="center">
