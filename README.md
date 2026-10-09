@@ -1,68 +1,74 @@
 <!--
-  GitHub 个人主页 README
+  GitHub 个人主页 README · 简洁留白风
   自动展示于 https://github.com/daitcl
 -->
 
-<h1 align="center">👋 你好，我是 dait</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=190&section=header&text=dait&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=%E7%83%AD%E7%88%B1%E5%88%86%E4%BA%AB%E4%B8%8E%E5%88%9B%E9%80%A0%20%C2%B7%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E6%8A%80%E6%9C%AF%E5%B0%8F%E6%A0%88&descAlignY=64&descSize=16" width="100%" alt="dait" />
+
+<h3 align="center">
+  <samp>你好，我是 dait 👋</samp>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=热爱分享与创造；欢迎来到我的技术小栈" alt="Typing SVG" />
+  <samp>热爱编程 · 乐于分享 · 相信「输出是最好的输入」</samp>
 </p>
 
 <p align="center">
-  <a href="https://blog.csdn.net/qq_39538318" target="_blank"><img src="https://img.shields.io/badge/CSDN-博客-red?logo=csdn" /></a>
-  <a href="https://www.daitcc.top"><img src="https://img.shields.io/badge/Website-daitcc.top-blue?style=flat-square" alt="个人网站"></a>
-  <a href="https://github.com/daitcl" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github" /></a>
-  <a href="https://ifdian.net/a/daitcc" target="_blank"><img src="https://img.shields.io/badge/爱发电-赞助-946ce6?logo=afdian" /></a>
-  <a href="mailto:daitcctop@163.com"><img src="https://img.shields.io/badge/邮箱-daitcctop@163.com-EA4335?logo=gmail" /></a>
+  <a href="https://blog.csdn.net/qq_39538318"><img src="https://img.shields.io/badge/CSDN-博客-9e4a4a?style=flat-square&logo=csdn&logoColor=white" alt="CSDN" /></a>
+  <a href="https://www.daitcc.top"><img src="https://img.shields.io/badge/网站-daitcc.top-6b7f8c?style=flat-square" alt="Website" /></a>
+  <a href="https://github.com/daitcl"><img src="https://img.shields.io/badge/GitHub-@daitcl-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://ifdian.net/a/daitcc"><img src="https://img.shields.io/badge/爱发电-赞助-8a7ca8?style=flat-square" alt="爱发电" /></a>
+  <a href="mailto:daitcctop@163.com"><img src="https://img.shields.io/badge/邮箱-daitcctop@163.com-9e4a4a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-## 👋 关于我
-
-你好！我是 **dait**，一名热爱编程与分享的开发者。  
-这里是我的**技术小栈**，记录着我一路的学习脚印与实践心得——无论是深入源码的笔记、项目落地的复盘，还是偶尔发现的“奇技淫巧”，我都会认真整理并分享出来。
-
-我相信 **输出是最好的输入**，也希望通过开放的文字，与同行的你交流碰撞，一起成长。
+<br />
 
 ---
 
-## 📝 为什么写博客？
+<h3><samp>　关于我</samp></h3>
 
-- **记录**：把模糊的“我知道”变成清晰的“我能写出来”
-- **复盘**：每完成一个项目或解决一个难题，沉淀为可复用的经验
-- **分享**：也许我踩过的坑，能帮你省下一些时间
-- **连接**：通过文字认识更多有趣的朋友和同行
+你好！我是 **dait**，一名热爱编程与分享的开发者。
 
----
+这里是我的 **技术小栈**，记录着一路走来的学习脚印与实践心得——无论是深入源码的笔记、项目落地的复盘，还是偶尔发现的「奇技淫巧」，我都会认真整理并分享出来。
 
-## 🔗 来找我
-
-- **CSDN**：[daitcl的博客](https://blog.csdn.net/qq_39538318) 
-- **GitHub**：[@daitcl](https://github.com/daitcl) — （你正在这里）
-- **爱发电**：[爱发电主页](https://ifdian.net/a/daitcc) — 欢迎支持、分享或合作
-- **个人网站**：[daitcc.top](https://www.daitcc.top) — 个人博客、项目展示、联系我
-- **邮箱**：daitcctop@163.com — 欢迎交流、指正或闲聊
-- **微信公众号**：扫一扫下方二维码，获取更新推送  
-  <img src="https://raw.gitcode.com/daitcl/picgo/raw/main/wechat_qrcode.jpg" alt="微信公众号二维码" width="150" />
+<br />
 
 ---
 
-## 📢 创作者认证声明
+<h3><samp>　为什么写博客</samp></h3>
 
-本人已入驻 **爱发电** 平台，并依据平台“创作者认证”流程要求，在此公开宣传我的爱发电主页：
+| | |
+| :-- | :-- |
+| **记录** | 把模糊的「我知道」变成清晰的「我能写出来」 |
+| **复盘** | 每完成一个项目或解决一个难题，沉淀为可复用的经验 |
+| **分享** | 也许我踩过的坑，能帮你省下一些时间 |
+| **连接** | 通过文字认识更多有趣的朋友和同行 |
 
-👉 **https://ifdian.net/a/daitcc**
-
-同时，我在以下最常使用的平台中也已公开本主页（用于交叉验证）：
-- **个人网站**：[daitcc.top](https://www.daitcc.top) — 个人签名/置顶文章包含爱发电链接
-- **GitHub**：[daitcl](https://github.com/daitcl) — 本 README 中已包含爱发电链接
-- **微信公众号**：菜单栏已配置“爱发电”入口
+<br />
 
 ---
 
-## 📊 GitHub 统计
+<h3><samp>　来找我</samp></h3>
+
+<p>
+  <a href="https://blog.csdn.net/qq_39538318">CSDN</a> ·
+  <a href="https://github.com/daitcl">GitHub</a> ·
+  <a href="https://www.daitcc.top">个人网站</a> ·
+  <a href="https://ifdian.net/a/daitcc">爱发电</a> ·
+  <a href="mailto:daitcctop@163.com">邮箱</a>
+</p>
+
+<details>
+<summary><samp>　微信公众号</samp></summary>
+<br />
+<img src="https://raw.gitcode.com/daitcl/picgo/raw/main/wechat_qrcode.jpg" alt="微信公众号二维码" width="150" />
+</details>
+
+<br />
+
+---
+
+<h3><samp>　GitHub 统计</samp></h3>
 
 <p align="center">
   <img src="./profile/stats.svg" alt="GitHub Stats" height="170" />
@@ -70,10 +76,30 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daitcl&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=daitcl&color=8a7ca8&style=flat-square" alt="Profile Views" />
 </p>
+
+<br />
 
 ---
 
-> “独行快，众行远。” 感谢你的每一次阅读、点赞和分享。  
-> 期待在技术道路上，与你并肩前行。
+<details>
+<summary><samp>　创作者认证声明</samp></summary>
+<br />
+
+本人已入驻 **爱发电** 平台，并依据平台「创作者认证」流程要求，在此公开宣传我的爱发电主页：
+
+👉 **https://ifdian.net/a/daitcc**
+
+同时，我在以下最常使用的平台中也已公开本主页（用于交叉验证）：
+- **个人网站**：[daitcc.top](https://www.daitcc.top) — 个人签名/置顶文章包含爱发电链接
+- **GitHub**：[daitcl](https://github.com/daitcl) — 本 README 中已包含爱发电链接
+- **微信公众号**：菜单栏已配置「爱发电」入口
+
+</details>
+
+<br />
+
+<p align="center">
+  <samp>「独行快，众行远。」<br />感谢你的每一次阅读、点赞和分享。</samp>
+</p>
