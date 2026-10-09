@@ -37,9 +37,14 @@
 
 <h3><samp>　项目展示</samp></h3>
 
-<!-- ✏️ 待补充：把下方示例替换为你的真实项目
-     格式： **项目名** · `主要语言` —— 一句话简介 [→ 仓库链接](url) -->
-- **项目名称** · `语言` —— 一句话项目简介　[→ 仓库](https://github.com/daitcl)
+- **[mihomo](https://github.com/daitcl/mihomo)**　`Dockerfile`　⭐ 124
+  基于 Clash 核心的代理工具镜像，集成 Metacubexd 管理面板，开箱即用的 Web 管理界面。
+
+- **[ablesciSign](https://github.com/daitcl/ablesciSign)**　`Python`　⭐ 55
+  科研通自动签到脚本，支持青龙面板与 GitHub Actions 双平台运行，多账号 + 多渠道通知。
+
+- **[Qt-demo](https://github.com/daitcl/Qt-demo)**　`C++`
+  个人 Qt 工程合集，含线程安全串口通信管理库等示例，配套系列教程。
 
 <br />
 
@@ -47,9 +52,10 @@
 
 <h3><samp>　文章推荐</samp></h3>
 
-<!-- ✏️ 待补充：替换为你的真实文章标题与链接（CSDN / daitcc.top） -->
-- [文章标题一](https://blog.csdn.net/qq_39538318)
-- [文章标题二](https://www.daitcc.top)
+- [Qt6基础教程：多线程串口通信实战](https://daitcc.top/posts/13725773/)
+  将串口操作封装进工作线程，通过 SerialManager 对外提供简洁接口，实现串口通信与界面逻辑完全分离。
+- [使用 Github Action 定时签到科研通](https://daitcc.top/posts/4f391d11/)
+  用 GitHub Actions 实现科研通每日自动签到，支持多账号与多渠道推送通知。
 
 <br />
 
