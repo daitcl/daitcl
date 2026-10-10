@@ -37,14 +37,11 @@
 
 <h3><samp>　项目展示</samp></h3>
 
-- **[mihomo](https://github.com/daitcl/mihomo)**　`Dockerfile`　⭐ 124
-  基于 Clash 核心的代理工具镜像，集成 Metacubexd 管理面板，开箱即用的 Web 管理界面。
-
-- **[ablesciSign](https://github.com/daitcl/ablesciSign)**　`Python`　⭐ 55
-  科研通自动签到脚本，支持青龙面板与 GitHub Actions 双平台运行，多账号 + 多渠道通知。
-
-- **[Qt-demo](https://github.com/daitcl/Qt-demo)**　`C++`
-  个人 Qt 工程合集，含线程安全串口通信管理库等示例，配套系列教程。
+| 项目 | 语言 | 简介 |
+| :-- | :-- | :-- |
+| **[mihomo](https://github.com/daitcl/mihomo)**<br>![stars](https://img.shields.io/github/stars/daitcl/mihomo?style=flat-square&label=stars&color=8a7ca8) | ![Dockerfile](https://img.shields.io/badge/Dockerfile-384d54?style=flat-square&logo=docker&logoColor=white) | 基于 Clash 核心的代理工具镜像，集成 Metacubexd 管理面板，开箱即用的 Web 管理界面。 |
+| **[ablesciSign](https://github.com/daitcl/ablesciSign)**<br>![stars](https://img.shields.io/github/stars/daitcl/ablesciSign?style=flat-square&label=stars&color=8a7ca8) | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | 科研通自动签到脚本，支持青龙面板与 GitHub Actions 双平台运行，多账号 + 多渠道通知。 |
+| **[Qt-demo](https://github.com/daitcl/Qt-demo)**<br>![stars](https://img.shields.io/github/stars/daitcl/Qt-demo?style=flat-square&label=stars&color=8a7ca8) | ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white) | 个人 Qt 工程合集，含线程安全串口通信管理库等示例，配套系列教程。 |
 
 <br />
 
