@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daitcl&bg_color=ffffff00&color=6b7f8c&line=8a7ca8&point=9e4a4a&area=true&hide_border=true" alt="活跃度" width="95%" />
+  <img src="https://ghchart.rshah.org/8a7ca8/daitcl" alt="贡献活跃度" width="95%" />
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daitcl&color=8a7ca8&style=flat-square" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=daitcl.daitcl&left_color=6b7f8c&right_color=8a7ca8" alt="Profile Views" />
 </p>
 
 <br />
